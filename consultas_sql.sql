@@ -76,12 +76,12 @@ SET mes = CASE MONTHNAME(data)
 END;
 
 -- ----------------------------------------------generico---------------------------------------------------------------- -- 		
--- How many unique cities does the data have?
+-- Quantas cidades únicas temos?
 SELECT 
 	DISTINCT cidade
 FROM vendas;
 
--- In which city is each branch?
+-- Em qual cidade fica cada fiial?
 SELECT 
 	DISTINCT cidade,
     filial
