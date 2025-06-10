@@ -64,7 +64,7 @@ Foram adicionadas as colunas:
 
 ## 📌 Conclusão
 
-Este projeto demonstrou como utilizar SQL para realizar uma análise exploratória detalhada de uma base de dados de vendas. Com o suporte do ChatGPT, foi possível construir, revisar e otimizar as queries, além de traduzir e contextualizar os insights extraídos.
+Este projeto demonstrou como utilizar SQL para realizar uma análise exploratória detalhada de uma base de dados de vendas. Foi possível construir, revisar, otimizar as queries, além de traduzir e contextualizar os insights extraídos.
 
 ---
 
